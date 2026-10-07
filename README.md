@@ -16,9 +16,6 @@ This repository demonstrates how to embed the physics directly into the loss fun
 - [Physics_Informed_Neural_Network.ipynb](https://github.com/shreyasshikhare11/Physics-Informed-Neural-Network/blob/main/Physics_Informed_Neural_Network.ipynb)  
   A full notebook containing several PINN examples and training workflows.
 
-- [pinn_template.ipynb](https://github.com/shreyasshikhare11/Physics-Informed-Neural-Network/blob/main/pinn_template.ipynb)  
-  A simple starter notebook for building your own PINN experiment.
-
 ## PDE examples covered
 
 The notebook includes examples for:
@@ -28,6 +25,7 @@ The notebook includes examples for:
 - Navier–Stokes equations
 - Korteweg–de Vries (KdV) equation
 - 1D wave equation
+- Allan-Cahen equation
 
 These examples illustrate how PINNs can model time-dependent PDEs with initial conditions, boundary conditions, and residual-based training.
 
@@ -56,7 +54,6 @@ This project is a good starting point for:
 
 - GitHub repository: [Physics-Informed-Neural-Network](https://github.com/shreyasshikhare11/Physics-Informed-Neural-Network)
 - Main notebook: [Physics_Informed_Neural_Network.ipynb](https://github.com/shreyasshikhare11/Physics-Informed-Neural-Network/blob/main/Physics_Informed_Neural_Network.ipynb)
-- Starter template: [pinn_template.ipynb](https://github.com/shreyasshikhare11/Physics-Informed-Neural-Network/blob/main/pinn_template.ipynb)
 
 ## License
 
